@@ -1,2 +1,2 @@
-# kolbaska3371.github.io
+# kolbaska3371
 My first website
